@@ -1,5 +1,4 @@
-"use strict";
-const series = [
+export const series = [
     "Game of Thrones",
     "Vampire Diaries",
     "Riverdale",

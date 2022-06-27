@@ -1,4 +1,4 @@
-const series: string[] = [
+ export const series: string[] = [
   "Game of Thrones",
   "Vampire Diaries",
   "Riverdale",
