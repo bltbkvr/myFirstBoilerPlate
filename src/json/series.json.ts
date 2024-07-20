@@ -4,4 +4,5 @@
   "Riverdale",
   "Stranger Things",
   "Simpsons",
+  "Silo"
 ];
